@@ -1,1 +1,1 @@
-# SmartAzanClock.com ReactJS PWA Application
+# onlineClock.com ReactJS PWA Application
